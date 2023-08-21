@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm G M Mehedi Hasan</h1>
-<h3 align="center">A passionate java backend developer from Dhaka, Bangladesh</h3>
+<h3 align="center">I'm a passionate Java backend developer based in Dhaka, Bangladesh. With a love for coding and a knack for problem-solving, I'm on a journey to create meaningful and efficient software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3h3d1&label=Profile%20views&color=0e75b6&style=flat" alt="m3h3d1" /> </p>
 
@@ -27,3 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3h3d1&" alt="m3h3d1" /></p>
 
+### A Bit More About Me:
+I find joy in tackling complex challenges and turning them into elegant solutions through clean code. Whether it's crafting a back-end logic or optimizing database queries, I enjoy every step of the development process. When I'm not coding, you can find me exploring the world of competitive programming or unwinding with a good book.
+
+Feel free to explore my repositories, connect with me, and let's collaborate on something amazing!
