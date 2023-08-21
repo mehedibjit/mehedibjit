@@ -30,4 +30,7 @@
 ### A Bit More About Me:
 I find joy in tackling complex challenges and turning them into elegant solutions through clean code. Whether it's crafting a back-end logic or optimizing database queries, I enjoy every step of the development process. When I'm not coding, you can find me exploring the world of competitive programming or unwinding with a good book.
 
+### Future Plans:
+Looking ahead, I'm excited to delve deeper into the world of microservices architecture and cloud technologies. I plan to sharpen my skills in distributed systems and containerization to build scalable and resilient applications. Additionally, I'm eager to contribute more to open-source projects and collaborate with fellow developers to make a positive impact on the tech community.
+
 Feel free to explore my repositories, connect with me, and let's collaborate on something amazing!
