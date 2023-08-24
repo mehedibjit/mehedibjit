@@ -57,7 +57,7 @@ I find joy in tackling complex challenges and turning them into elegant solution
 
 #### 🌐 Portfolio
 - Created a responsive personal portfolio website using HTML and CSS.
-- Showcase your projects and achievements in an organized and visually appealing manner.
+- Showcased my projects and achievements in an organized and visually appealing manner.
 - **Technical Skills**: HTML, CSS.
 
 ### Future Plans:
