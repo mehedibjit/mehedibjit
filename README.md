@@ -35,7 +35,7 @@ I find joy in tackling complex challenges and turning them into elegant solution
 
 ### 👨‍💼 Experience
  **Trainee Software Engineer**\
-  [BJIT Ltd](https://www.bjitgroup.com/)\
+  [BJIT Ltd](https://www.bjitgroup.com/)
   - August 2023 - Present
   - Backend Development
   - Technologies:Java, Spring Boot, JDBC
