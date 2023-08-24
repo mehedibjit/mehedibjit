@@ -76,21 +76,21 @@ I find joy in tackling complex challenges and turning them into elegant solution
 <a href="https://www.leetcode.com/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m3h3d1" height="30" width="40" /></a>
 
 ### 📁 Projects
-#### 📚 English Vocabulary Program using BST
+#### 📚 [English Vocabulary Program using BST](https://github.com/m3h3d1/English-Vocabulary-Program-using-BST)
 - Developed an English vocabulary program from scratch, utilizing Binary Search Tree and linked list implementation.
 - **Technical Skills**: C++, Binary Search Tree.
 
-#### 🏥 Hospital Management System
+#### 🏥 [Hospital Management System](https://github.com/m3h3d1/Hospital)
 - Implemented a Hospital Management System project using Java Swing and MySQL.
 - The system effectively manages various aspects of hospital operations, including patient management, tracking doctors, admission, appointment scheduling, and billing.
 - **Technical Skills**: Java (Swing), MySQL.
 
-#### ✈️ Tourism Recommender
+#### ✈️ [Tourism Recommender](https://github.com/m3h3d1/Tourism-Recommender)
 - Developed a tourism recommender website using HTML, CSS, and PHP.
 - Users can review places based on their interests, and they will receive recommendations based on others' reviews.
 - **Technical Skills**: HTML, CSS, PHP.
 
-#### 🌐 Portfolio
+#### 🌐 [Portfolio](https://m3h3d1.github.io/portfolio)
 - Created a responsive personal portfolio website using HTML and CSS.
 - Showcased my projects and achievements in an organized and visually appealing manner.
 - **Technical Skills**: HTML, CSS.
