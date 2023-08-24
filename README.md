@@ -5,6 +5,9 @@
 
 - 💬 Ask me about **Java, C++, Data Structures & Algorithms**
 
+- 📧 Email me at **hasanmehediiit@gmail.com**
+I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/m3h3d1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="m3h3d1" height="30" width="40" /></a>
