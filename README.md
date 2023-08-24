@@ -76,8 +76,8 @@ I find joy in tackling complex challenges and turning them into elegant solution
 <a href="https://www.leetcode.com/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m3h3d1" height="30" width="40" /></a>
 
 ### 📁 Projects
-#### English Vocabulary Program using BST
-- 📚 Developed an English vocabulary program from scratch, utilizing Binary Search Tree and linked list implementation.
+#### 📚 English Vocabulary Program using BST
+- Developed an English vocabulary program from scratch, utilizing Binary Search Tree and linked list implementation.
 - **Technical Skills**: C++, Binary Search Tree.
 
 #### 🏥 Hospital Management System
