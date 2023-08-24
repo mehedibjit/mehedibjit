@@ -10,6 +10,12 @@
 <a href="https://www.codechef.com/users/m3h3d1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="m3h3d1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m3h3d1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m3h3d1" height="30" width="40" /></a>
+
+
+📄 View my detailed professional background and experience in my resume:
+
+[Download Resume](https://drive.google.com/file/d/11SXowka8pfGrchUhR3ka_1cS52RHFjnn/view?usp=sharing)
+    
 </p>
 
 ---
