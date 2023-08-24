@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm G M Mehedi Hasan</h1>
 <h3 align="center">I'm a passionate Java backend developer based in Dhaka, Bangladesh. With a love for coding and a knack for problem-solving, I'm on a journey to create meaningful and efficient software solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m3h3d1&label=Profile%20views&color=0e75b6&style=flat" alt="m3h3d1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3h3d1" alt="m3h3d1" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Spring Boot**
 
 - 💬 Ask me about **Java, C++, Data Structures & Algorithms**
@@ -15,6 +11,8 @@
 <a href="https://codeforces.com/profile/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m3h3d1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m3h3d1" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="center">Technologies I've been working on</h3>
 <p align="left">
@@ -40,17 +38,27 @@
 </p>
 </p>
 
+---
+
+<h3 align="center">Statistics</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m3h3d1&label=Profile%20views&color=0e75b6&style=flat" alt="m3h3d1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3h3d1" alt="m3h3d1" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3h3d1&show_icons=true&locale=en&layout=compact" alt="m3h3d1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3h3d1&show_icons=true&locale=en" alt="m3h3d1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3h3d1&" alt="m3h3d1" /></p>
 
-### A Bit More About Me:
+---
+
+### 🧩 A Bit More About Me:
 I find joy in tackling complex challenges and turning them into elegant solutions through clean code. Whether it's crafting a back-end logic or optimizing database queries, I enjoy every step of the development process. When I'm not coding, you can find me exploring the world of competitive programming or unwinding with a good book.
 
-### Education
- 🎓 **BSc (Hons) in Information Technology**\
+### 🎓 Education
+  **BSc (Hons) in Information Technology**\
   [Jahangirnagar University](https://www.juniv.edu/)\
   March 2018 - April 2023
 
@@ -81,7 +89,7 @@ I find joy in tackling complex challenges and turning them into elegant solution
 - Showcased my projects and achievements in an organized and visually appealing manner.
 - **Technical Skills**: HTML, CSS.
 
-### Future Plans:
+### 🧭 Future Plans:
 Looking ahead, I'm excited to delve deeper into the world of microservices architecture and cloud technologies. I plan to sharpen my skills in distributed systems and containerization to build scalable and resilient applications. Additionally, I'm eager to contribute more to open-source projects and collaborate with fellow developers to make a positive impact on the tech community.
 
 Feel free to explore my repositories, connect with me, and let's collaborate on something amazing!
