@@ -8,12 +8,6 @@
 - 📧 Email me at **hasanmehediiit@gmail.com**
 I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/m3h3d1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="m3h3d1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m3h3d1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m3h3d1" height="30" width="40" /></a>
-
 
 📄 View my detailed professional background and experience in my resume:
 
@@ -63,7 +57,6 @@ I'm passionate about sharing my knowledge and experiences in these areas, feel f
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3h3d1&" alt="m3h3d1" /></p>
 
 ---
-
 ### 🧩 A Bit More About Me:
 I find joy in tackling complex challenges and turning them into elegant solutions through clean code. Whether it's crafting a back-end logic or optimizing database queries, I enjoy every step of the development process. When I'm not coding, you can find me exploring the world of competitive programming or unwinding with a good book.
 
@@ -78,6 +71,12 @@ I find joy in tackling complex challenges and turning them into elegant solution
   - August 2023 - Present
   - Backend Development
   - Technologies:Java, Spring Boot, JDBC
+
+### 💡 Problem Solving
+<p align="left">
+<a href="https://www.codechef.com/users/m3h3d1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="m3h3d1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m3h3d1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/m3h3d1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m3h3d1" height="30" width="40" /></a>
 
 ### 📁 Projects
 #### English Vocabulary Program using BST
