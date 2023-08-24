@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3h3d1" alt="m3h3d1" /></a> </p>
 
-- 🔭 I’m currently working on [Hospital Management System](https://github.com/m3h3d1/Hospital)
-
 - 🌱 I’m currently learning **Java, Spring Boot**
 
 - 💬 Ask me about **Java, C++, Data Structures & Algorithms**
@@ -29,6 +27,38 @@
 
 ### A Bit More About Me:
 I find joy in tackling complex challenges and turning them into elegant solutions through clean code. Whether it's crafting a back-end logic or optimizing database queries, I enjoy every step of the development process. When I'm not coding, you can find me exploring the world of competitive programming or unwinding with a good book.
+
+### Education
+ 🎓 **BSc (Hons) in Information Technology**\
+  [Jahangirnagar University](https://www.juniv.edu/)\
+  March 2018 - April 2023
+
+### 👨‍💼 Experience
+ **Trainee Software Engineer**\
+  [BJIT Ltd](https://www.bjitgroup.com/)\
+  - August 2023 - Present
+  - Backend Development
+  - Technologies:Java, Spring Boot, JDBC
+
+### 📁 Projects
+#### English Vocabulary Program using BST
+- 📚 Developed an English vocabulary program from scratch, utilizing Binary Search Tree and linked list implementation.
+- **Technical Skills**: C++, Binary Search Tree.
+
+#### 🏥 Hospital Management System
+- Implemented a Hospital Management System project using Java Swing and MySQL.
+- The system effectively manages various aspects of hospital operations, including patient management, tracking doctors, admission, appointment scheduling, and billing.
+- **Technical Skills**: Java (Swing), MySQL.
+
+#### ✈️ Tourism Recommender
+- Developed a tourism recommender website using HTML, CSS, and PHP.
+- Users can review places based on their interests, and they will receive recommendations based on others' reviews.
+- **Technical Skills**: HTML, CSS, PHP.
+
+#### 🌐 Portfolio
+- Created a responsive personal portfolio website using HTML and CSS.
+- Showcase your projects and achievements in an organized and visually appealing manner.
+- **Technical Skills**: HTML, CSS.
 
 ### Future Plans:
 Looking ahead, I'm excited to delve deeper into the world of microservices architecture and cloud technologies. I plan to sharpen my skills in distributed systems and containerization to build scalable and resilient applications. Additionally, I'm eager to contribute more to open-source projects and collaborate with fellow developers to make a positive impact on the tech community.
