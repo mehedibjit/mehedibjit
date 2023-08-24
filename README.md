@@ -5,11 +5,10 @@
 
 - 💬 Ask me about **Java, C++, Data Structures & Algorithms**
 
+- 📄 View my detailed professional background and experience in my [resume](https://drive.google.com/file/d/11SXowka8pfGrchUhR3ka_1cS52RHFjnn/view?usp=sharing)
+
 - 📧 Email me at **hasanmehediiit@gmail.com**
 I'm passionate about sharing my knowledge and experiences in these areas, feel free to ask me anything!
-
-
-📄 View my detailed professional background and experience in my [resume](https://drive.google.com/file/d/11SXowka8pfGrchUhR3ka_1cS52RHFjnn/view?usp=sharing)
     
 </p>
 
