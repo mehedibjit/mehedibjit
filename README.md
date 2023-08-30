@@ -41,19 +41,6 @@ I'm passionate about sharing my knowledge and experiences in these areas, feel f
 
 ---
 
-<h3 align="center">Statistics</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m3h3d1&label=Profile%20views&color=0e75b6&style=flat" alt="m3h3d1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3h3d1" alt="m3h3d1" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3h3d1&show_icons=true&locale=en&layout=compact" alt="m3h3d1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3h3d1&show_icons=true&locale=en" alt="m3h3d1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3h3d1&" alt="m3h3d1" /></p>
-
----
 ### 🧩 A Bit More About Me:
 I find joy in tackling complex challenges and turning them into elegant solutions through clean code. Whether it's crafting a back-end logic or optimizing database queries, I enjoy every step of the development process. When I'm not coding, you can find me exploring the world of competitive programming or unwinding with a good book.
 
@@ -99,3 +86,17 @@ I find joy in tackling complex challenges and turning them into elegant solution
 Looking ahead, I'm excited to delve deeper into the world of microservices architecture and cloud technologies. I plan to sharpen my skills in distributed systems and containerization to build scalable and resilient applications. Additionally, I'm eager to contribute more to open-source projects and collaborate with fellow developers to make a positive impact on the tech community.
 
 Feel free to explore my repositories, connect with me, and let's collaborate on something amazing!
+
+---
+
+<h3 align="center">Statistics</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m3h3d1&label=Profile%20views&color=0e75b6&style=flat" alt="m3h3d1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m3h3d1" alt="m3h3d1" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3h3d1&show_icons=true&locale=en&layout=compact" alt="m3h3d1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3h3d1&show_icons=true&locale=en" alt="m3h3d1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3h3d1&" alt="m3h3d1" /></p>
