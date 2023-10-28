@@ -19,11 +19,10 @@ I'm passionate about sharing my knowledge and experiences in these areas, feel f
 <h5 align="left">Programming Languages</h5><p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
+<!--     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp; -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
 </p><h5 align="left">Front end</h5><p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="cplusplus" width="40" height="40" /> &nbsp;
@@ -33,7 +32,7 @@ I'm passionate about sharing my knowledge and experiences in these areas, feel f
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
 </p><h5 align="left">Other tools</h5><p>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
+<!--     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="cplusplus" width="40" height="40" /> &nbsp; -->
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="cplusplus" width="40" height="40" /> &nbsp;
 </p>
