@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm G M Mehedi Hasan</h1>
+<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">I'm a passionate Java backend developer based in Dhaka, Bangladesh. With a love for coding and a knack for problem-solving, I'm on a journey to create meaningful and efficient software solutions.</h3>
 
 - 🌱 I’m currently learning **Java, Spring Boot**
